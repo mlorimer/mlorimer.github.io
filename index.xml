@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta Lorimer</title>
+    <link>https://mlorimer.github.io/</link>
+    <description>Recent content on Marta Lorimer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mlorimer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://mlorimer.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlorimer.github.io/about/</guid>
+      <description>I am a Fellow in European Politics at the London School of Economics and Political Science’s European Institute, where I teach the courses ‘Democracy, Ideology and the European State’ and ‘The Future: Political Responses to a Challenge&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Academic Publications</title>
+      <link>https://mlorimer.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlorimer.github.io/publications/</guid>
+      <description>Bellamy, R., S. Kröger, and M. Lorimer (2021) ‘Party Views on Differentiated Integration’, Comparative European Politics, DOI 10.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://mlorimer.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlorimer.github.io/education/</guid>
+      <description>2015-2019
+PhD in European Studies, European Institute, London School of Economics.</description>
+    </item>
+    
+    <item>
+      <title>Public Engagement</title>
+      <link>https://mlorimer.github.io/blog_posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlorimer.github.io/blog_posts/</guid>
+      <description>Blog Posts ‘Europe in far-right ideology’, Blog Post, Ideology, Theory, Practice (August 2021)</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://mlorimer.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mlorimer.github.io/teaching/</guid>
+      <description>The Future: Political Responses to a Challenge
+EU481 - LSE European Institute</description>
+    </item>
+    
+  </channel>
+</rss>
